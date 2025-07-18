@@ -1,0 +1,24 @@
+
+✅ Project: DC Motor Speed Controller using PWM
+📍 Platform: Tinkercad (Simulation Only)
+
+In this project, I built a speed control system for a DC motor using Pulse Width Modulation (PWM) from an Arduino. A potentiometer is used to vary the speed in real-time. The PWM signal drives a transistor, which controls the power to the motor. A flyback diode ensures protection from voltage spikes.
+
+This project helped me understand:
+
+Analog to PWM signal conversion
+
+Motor control using transistors
+
+Circuit protection techniques
+
+Real-time speed control systems
+
+
+📚 Applications: EVs, smart appliances, industrial automation
+
+🛠️ Simulated with: Arduino UNO, TIP120 transistor, potentiometer, flyback diode
+🔗 Try it here: https://www.tinkercad.com/things/0OYXb2A6M3v-dc-motor-speed-control-using-pwm
+
+#PWM #Arduino #MotorControl #EmbeddedSystems #Tinkercad #ECE #SimulationOnly #100DaysOfCode #EngineeringProjects
+
